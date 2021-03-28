@@ -1,0 +1,6 @@
+package com.vti.academy.entity;
+
+public class Department {
+	int id;
+	String name;
+}
