@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.printer.CanonicalStringGraphPrinter"/>
+    <fullyQualifiedTypeName name="java.security.ProtectionDomain"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="com.vti.academy.entity.NhanVien"/>
+    <fullyQualifiedTypeName name="com.vti.academy.entity.CongNhan"/>
+    <fullyQualifiedTypeName name="com.vti.academy.entity.KySu"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
+    <fullyQualifiedTypeName name="com.vti.academy.entity.CanBo"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.gen.LIRGenerator.VariableProvider"/>
+    <fullyQualifiedTypeName name="Abstract.VietnamesePhone"/>
+    <fullyQualifiedTypeName name="com.sun.source.util.TreePathScanner"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.objects.NativeWeakMap"/>
+    <fullyQualifiedTypeName name="Abstract.Phone"/>
+    <fullyQualifiedTypeName name="com.sun.security.auth.NTDomainPrincipal"/>
+    <fullyQualifiedTypeName name="Abstract.Contact"/>
+    <fullyQualifiedTypeName name="javax.print.event.PrintJobAttributeEvent"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.vti.acacdemy.entity.Sach"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.lang.Deprecated"/>
+    <fullyQualifiedTypeName name="com.vti.acacdemy.entity.TapChi"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.vti.acacdemy.entity.TaiLieu"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>
