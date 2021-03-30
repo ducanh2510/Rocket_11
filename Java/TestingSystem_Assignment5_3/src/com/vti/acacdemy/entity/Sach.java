@@ -28,7 +28,8 @@ public class Sach extends TaiLieu{
 	public void inputInfo() {
 		super.inputInfo();
 		System.out.println("Moi ban nhap ten tac gia: ");
-		tacGia = scanner.nextLine();
+		setTacGia( scanner.nextLine());
+//		tacGia = scanner.nextLine();
 		System.out.println("Moi ban nhap so trang: ");
 		soTrang = scanner.nextInt();
 		scanner.nextLine();

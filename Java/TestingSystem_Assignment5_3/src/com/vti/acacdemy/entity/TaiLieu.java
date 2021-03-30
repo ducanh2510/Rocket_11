@@ -10,7 +10,6 @@ public abstract class TaiLieu {
 	private Scanner scanner;
 	
 	public TaiLieu() {
-		inputInfo();
 		scanner = new Scanner(System.in);
 	}
 	
@@ -31,6 +30,13 @@ public abstract class TaiLieu {
 	}
 	public void setSoBan(int soBan) {
 		this.soBan = soBan;
+	}
+	
+	public void print() {
+		System.out.println("Ma tai lieu: " + getMaTaiLieu() + "\n"
+							+ "Ten NXB: " + getTenNXB() + "\n"
+							+ "So ban phat hanh: " + getSoBan());
+		System.out.println("*********************");
 	}
 	
 	public void inputInfo() {

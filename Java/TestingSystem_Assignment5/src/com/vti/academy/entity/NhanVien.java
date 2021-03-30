@@ -7,8 +7,8 @@ public class NhanVien extends CanBo{
 	private Scanner scanner;
 	
 	public NhanVien() {
-		inputInfo();
 		scanner = new Scanner(System.in);
+		inputInfo();
 	}
 
 	public String getCongViec() {

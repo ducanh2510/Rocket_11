@@ -9,6 +9,10 @@ public class Bao extends TaiLieu{
 	private Date ngayPhatHanh;
 	
 	private Scanner scanner;
+	public Bao() {
+		scanner = new Scanner(System.in);
+		inputInfo();
+	}
 
 	public Date getNgayPhatHanh() {
 		return ngayPhatHanh;

@@ -7,8 +7,8 @@ public class KySu extends CanBo{
 	private Scanner scanner;
 	
 	public KySu() {
-		inputInfo();
 		scanner = new Scanner(System.in);
+		inputInfo();
 	}
 
 	public String getNganhDaoTao() {

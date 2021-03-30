@@ -7,8 +7,8 @@ public class CongNhan extends CanBo{
 	private Scanner scanner;
 	
 	public CongNhan() {
-		inputInfo();
 		scanner = new Scanner(System.in);
+		inputInfo();
 	}
 
 	public int getBac() {
