@@ -65,26 +65,24 @@ public class String_Method {
 	// Question 6
 	public static void question6() {
 		String str = "Java - Noi tri tuong duoc bay xa";
-		String[] strSplit = str.split("\\s+");
+		String[] strSplit = str.split(" ");
 		for(int i = 0; i < strSplit.length; i++) {
-			if(strSplit[i].charAt(0) < 'a'
-				|| strSplit[i].charAt(0) > 'z'
-				|| strSplit[i].charAt(0) < 'A'	
-				|| strSplit[i].charAt(0) > 'Z') {
-				for(int j = i; j < strSplit.length - 1; j++) {
-					strSplit[j] = strSplit[j + 1]; 
-				}
-				strSplit[strSplit.length - 1] = null;
-			}
-		}
-		for(int i = 0; i < strSplit.length; i++) {
-			System.out.printf("strSplit[%d] = %s", i, strSplit[i]);
+			System.out.printf("strSplit[%d] = %s\n", i, strSplit[i]);
 		}
 	}
 
 	// Question 7
 	public static void question7() {
-
+		final String username = "CoderTraiGang";
+		final String password = "123455";
+		String userInput, passInput;
+		boolean logIn = false;
+		do {
+			System.out.println("Moi nhap username: ");
+			userInput = scanner.nextLine();
+			System.out.println("Moi nhap password: ");
+			passInput = scanner.nextLine();
+		}while(userInput != username || passInput != password);
 	}
 
 	public static void main(String[] args) {

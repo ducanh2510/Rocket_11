@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.printer.CanonicalStringGraphPrinter"/>
-    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
-    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
-    <fullyQualifiedTypeName name="com.vti.academy.entity.NhanVien"/>
-    <fullyQualifiedTypeName name="com.vti.academy.entity.CongNhan"/>
-    <fullyQualifiedTypeName name="com.vti.academy.entity.KySu"/>
-    <fullyQualifiedTypeName name="com.vti.academy.entity.CanBo"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.gen.LIRGenerator.VariableProvider"/>
-    <fullyQualifiedTypeName name="Abstract.VietnamesePhone"/>
-    <fullyQualifiedTypeName name="com.sun.source.util.TreePathScanner"/>
-    <fullyQualifiedTypeName name="jdk.nashorn.internal.objects.NativeWeakMap"/>
-    <fullyQualifiedTypeName name="Abstract.Phone"/>
     <fullyQualifiedTypeName name="com.sun.security.auth.NTDomainPrincipal"/>
     <fullyQualifiedTypeName name="Abstract.Contact"/>
     <fullyQualifiedTypeName name="javax.print.event.PrintJobAttributeEvent"/>
@@ -35,7 +23,6 @@
     <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.security.keys.keyresolver.implementations.PrivateKeyResolver"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.ui.action.ShowAction"/>
     <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.taglets.SummaryTaglet"/>
-    <fullyQualifiedTypeName name="jdk.jfr.internal.StringPool"/>
     <fullyQualifiedTypeName name="com.vti.academy.entity.ThiSinh"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
     <fullyQualifiedTypeName name="com.vti.academy.backend.MyNews"/>
@@ -43,20 +30,34 @@
     <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.RETURN"/>
     <fullyQualifiedTypeName name="com.vti.academy.entity.IStudent"/>
     <fullyQualifiedTypeName name="com.vti.academy.backend.StudentManager"/>
-    <fullyQualifiedTypeName name="com.sun.tools.javac.code.Type.ForAll"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="com.vti.academy.backend.StudentManger"/>
     <fullyQualifiedTypeName name="sun.font.CreatedFontTracker"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.vti.academy.entity.Student"/>
     <fullyQualifiedTypeName name="java.security.ProtectionDomain"/>
     <fullyQualifiedTypeName name="com.vti.academy.entity.Person"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.awt.Dimension"/>
     <fullyQualifiedTypeName name="com.vti.academy.entity.HinhChuNhat"/>
+    <fullyQualifiedTypeName name="com.vti.academy.entity.DienThoai"/>
+    <fullyQualifiedTypeName name="com.vti.academy.entity.VuKhi"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.code.Type.ForAll"/>
+    <fullyQualifiedTypeName name="jdk.internal.agent.resources.agent"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.ArrayUtils"/>
+    <fullyQualifiedTypeName name="jdk.jfr.internal.StringPool"/>
+    <fullyQualifiedTypeName name="com.vti.academy.String_Method"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="com.sun.crypto.provider.DESedeParameters"/>
+    <fullyQualifiedTypeName name="com.vti.academy.Program5"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.File"/>
 </qualifiedTypeNameHistroy>
