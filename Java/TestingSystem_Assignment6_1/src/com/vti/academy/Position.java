@@ -7,9 +7,9 @@ public class Position{
 	
 	public Position() {
 		scannerUtils = new ScannerUtils();
-		System.out.println("ID");
+		System.out.println("ID Position");
 		id = scannerUtils.inputInt("Loi roi");
-		System.out.println("Name");
+		System.out.println("Name Position");
 		name = scannerUtils.inputString();
 	}
 

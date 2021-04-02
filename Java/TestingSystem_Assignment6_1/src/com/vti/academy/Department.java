@@ -1,15 +1,15 @@
 package com.vti.academy;
 
 public class Department{
-	private float id;
+	private int id;
 	private String name;
 	private ScannerUtils scannerUtils;
 	
 	public Department() {
 		scannerUtils = new ScannerUtils();
-		System.out.println("ID");
-		id = scannerUtils.inputFloat("Loi roi");
-		System.out.println("Name");
+		System.out.println("ID Department");
+		id = scannerUtils.inputInt("Loi roi");
+		System.out.println("Name Department");
 		name = scannerUtils.inputString();
 	}
 
