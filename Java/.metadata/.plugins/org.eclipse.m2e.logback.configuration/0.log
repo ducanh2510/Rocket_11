@@ -3536,3 +3536,100 @@ org.apache.maven.archetype.old.ArchetypeTemplateProcessingException: Directory t
 2021-04-13 14:17:53,628 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
 2021-04-13 14:17:53,632 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-04-13 14:17:53,633 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:17:14,916 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-14 18:19:59,806 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:19:59,807 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:19:59,812 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:19:59,813 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:20:15,153 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:20:15,153 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:20:15,157 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:20:15,158 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:20:26,464 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:20:26,465 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:20:26,468 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:20:26,469 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:20:53,995 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:20:53,996 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:20:53,998 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:20:53,999 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:22:33,404 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:22:33,405 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:22:33,407 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:22:33,408 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:23:41,028 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:23:41,029 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:23:41,034 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:23:41,035 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:23:48,289 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:23:48,290 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:23:48,294 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:23:48,295 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:23:57,461 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:23:57,461 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:23:57,469 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:23:57,470 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:24:16,348 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:16,348 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:24:16,351 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:16,352 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:24:20,351 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:20,354 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:24:20,357 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:20,357 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:24:38,414 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:38,414 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:24:38,417 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:38,417 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:24:51,632 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:51,633 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:24:51,636 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:24:51,637 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:25:01,723 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:25:01,724 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:25:01,727 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:25:01,727 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:02,265 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:02,266 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:02,271 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:02,272 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:05,580 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:05,581 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:05,583 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:05,584 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:11,186 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:11,187 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:11,192 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:11,193 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:17,249 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:17,250 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:17,253 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:17,254 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:43,316 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:43,317 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:43,319 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:43,320 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:49,941 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:49,941 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:49,944 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:49,944 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:26:52,596 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:52,597 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:26:52,599 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:26:52,600 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:27:34,126 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:27:34,126 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:27:34,128 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:27:34,129 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:28:18,577 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:28:18,578 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:28:18,581 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:28:18,581 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:29:33,697 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:29:33,697 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:29:33,701 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:29:33,703 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources
+2021-04-14 18:29:39,630 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:29:39,630 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\main\resources
+2021-04-14 18:29:39,633 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-14 18:29:39,634 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\VTI Academy\Java\TestingSystem_Assignment_10\src\test\resources

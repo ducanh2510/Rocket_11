@@ -37,15 +37,7 @@ public class Exercise3 {
 	public void deleteDepartmentUsingProcedure(int id) throws Exception{
 		connectDatabase();
 		if(isDepartmentIDExists(id)) {
-			String sqlQuery = "DELIMITER $$\r\n"
-							+ "CREATE PROCEDURE sp_delete_department(IN id TINYINT)\r\n"
-							+ "BEGIN\r\n"
-							+ "DELETE FROM department\r\n"
-							+ "WHERE departmentID = id;\r\n"
-							+ "END$$\r\n"
-							+ "DELIMITER ;\n"
-							+ "CALL sp_delete_department(?);";
-			System.out.println(sqlQuery);
+			String sqlQuery = "{call sp_delete_department(?)}";
 			PreparedStatement preparedStatement = connection.prepareStatement(sqlQuery);
 			preparedStatement.setInt(1, id);
 			preparedStatement.executeUpdate();
