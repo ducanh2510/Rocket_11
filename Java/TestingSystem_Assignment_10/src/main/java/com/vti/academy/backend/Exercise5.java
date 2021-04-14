@@ -19,13 +19,21 @@ public class Exercise5 {
 	}
 	
 	// Question 2
-	public void connect() {
-		
+	public Connection connect() throws Exception{
+		if(connection != null) {
+			return connection;
+		}else {
+			idConnectedForTesting();
+			return connection;
+		}
 	}
 	
 	// Question 3
-	public void disconnect() {
-		
+	public void disconnect() throws Exception{
+		if(connection == null) { 
+		}else {
+			connection.close();
+		}
 	}
 	
 	
